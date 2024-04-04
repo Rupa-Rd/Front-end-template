@@ -1,0 +1,12 @@
+body{
+    background-image: linear-gradient(to right, #434343 0%, black 100%);
+    color: #fff;
+
+}
+.center{
+    
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+}
